@@ -8,3 +8,10 @@ Resources/nbc_Rscripts
 
 # ipynb checkpoints
 .ipynb_checkpoints
+
+# checkpoint
+checkpoint
+.Rcheckpoint
+
+# other assets
+assets
