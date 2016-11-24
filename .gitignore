@@ -1,0 +1,10 @@
+# data
+data
+*.csv
+*.xdf
+
+# automatically generated r scripts from notebooks
+Resources/nbc_Rscripts
+
+# ipynb checkpoints
+.ipynb_checkpoints
